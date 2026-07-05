@@ -33,4 +33,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/NihalGeek/Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+## Math
+|  |
+| ------- |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/NihalGeek/Leetcode/tree/master/3222-find-the-winning-player-in-coin-game) |
+## Simulation
+|  |
+| ------- |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/NihalGeek/Leetcode/tree/master/3222-find-the-winning-player-in-coin-game) |
+## Game Theory
+|  |
+| ------- |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/NihalGeek/Leetcode/tree/master/3222-find-the-winning-player-in-coin-game) |
 <!---LeetCode Topics End-->
