@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/NihalGeek/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/NihalGeek/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0704-binary-search](https://github.com/NihalGeek/Leetcode/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/NihalGeek/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/NihalGeek/Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/NihalGeek/Leetcode/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 ## Hash Table
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/NihalGeek/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0704-binary-search](https://github.com/NihalGeek/Leetcode/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/NihalGeek/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/NihalGeek/Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Sorting
 |  |
