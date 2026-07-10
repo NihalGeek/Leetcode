@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/NihalGeek/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/NihalGeek/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0125-valid-palindrome](https://github.com/NihalGeek/Leetcode/tree/master/0125-valid-palindrome) |
 ## Binary Search
 |  |
 | ------- |
@@ -66,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/NihalGeek/Leetcode/tree/master/3179-find-the-n-th-value-after-k-seconds) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/NihalGeek/Leetcode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
