@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/NihalGeek/Leetcode/tree/master/0509-fibonacci-number) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/NihalGeek/Leetcode/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/NihalGeek/Leetcode/tree/master/3222-find-the-winning-player-in-coin-game) |
 ## Simulation
@@ -84,4 +85,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/NihalGeek/Leetcode/tree/master/0020-valid-parentheses) |
 | [0682-baseball-game](https://github.com/NihalGeek/Leetcode/tree/master/0682-baseball-game) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/NihalGeek/Leetcode/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/NihalGeek/Leetcode/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/NihalGeek/Leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
