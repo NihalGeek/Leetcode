@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/NihalGeek/Leetcode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/NihalGeek/Leetcode/tree/master/0013-roman-to-integer) |
 | [0349-intersection-of-two-arrays](https://github.com/NihalGeek/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Two Pointers
 |  |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/NihalGeek/Leetcode/tree/master/0013-roman-to-integer) |
 | [0509-fibonacci-number](https://github.com/NihalGeek/Leetcode/tree/master/0509-fibonacci-number) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/NihalGeek/Leetcode/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/NihalGeek/Leetcode/tree/master/3222-find-the-winning-player-in-coin-game) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/NihalGeek/Leetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/NihalGeek/Leetcode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/NihalGeek/Leetcode/tree/master/0125-valid-palindrome) |
 ## Stack
