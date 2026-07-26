@@ -14,5 +14,4 @@ class Solution:
         for i in range(l//2):
             curr=curr.next
         return curr
-
         
