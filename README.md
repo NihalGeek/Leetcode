@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/NihalGeek/Leetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/NihalGeek/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/NihalGeek/Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [2126-destroying-asteroids](https://github.com/NihalGeek/Leetcode/tree/master/2126-destroying-asteroids) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/NihalGeek/Leetcode/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 ## Hash Table
 |  |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/NihalGeek/Leetcode/tree/master/0015-3sum) |
 | [0349-intersection-of-two-arrays](https://github.com/NihalGeek/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/NihalGeek/Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [2126-destroying-asteroids](https://github.com/NihalGeek/Leetcode/tree/master/2126-destroying-asteroids) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/NihalGeek/Leetcode/tree/master/0011-container-with-most-water) |
+| [2126-destroying-asteroids](https://github.com/NihalGeek/Leetcode/tree/master/2126-destroying-asteroids) |
 ## Linked List
 |  |
 | ------- |
