@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/NihalGeek/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/NihalGeek/Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [2126-destroying-asteroids](https://github.com/NihalGeek/Leetcode/tree/master/2126-destroying-asteroids) |
+| [3161-block-placement-queries](https://github.com/NihalGeek/Leetcode/tree/master/3161-block-placement-queries) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/NihalGeek/Leetcode/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 ## Hash Table
 |  |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/NihalGeek/Leetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/NihalGeek/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/NihalGeek/Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [3161-block-placement-queries](https://github.com/NihalGeek/Leetcode/tree/master/3161-block-placement-queries) |
 ## Sorting
 |  |
 | ------- |
@@ -129,4 +131,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1148-article-views-i](https://github.com/NihalGeek/Leetcode/tree/master/1148-article-views-i) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3161-block-placement-queries](https://github.com/NihalGeek/Leetcode/tree/master/3161-block-placement-queries) |
+## Segment Tree
+|  |
+| ------- |
+| [3161-block-placement-queries](https://github.com/NihalGeek/Leetcode/tree/master/3161-block-placement-queries) |
+## Ordered Set
+|  |
+| ------- |
+| [3161-block-placement-queries](https://github.com/NihalGeek/Leetcode/tree/master/3161-block-placement-queries) |
 <!---LeetCode Topics End-->
