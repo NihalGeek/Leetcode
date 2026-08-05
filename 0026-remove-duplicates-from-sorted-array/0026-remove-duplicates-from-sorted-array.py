@@ -7,7 +7,7 @@ class Solution:
             if nums[left]==nums[right]:
                 right+=1
             else:
-                nums[left+1],nums[right]=nums[right], nums[left+1]
+                nums[left+1],nums[right]=nums[right],nums[left+1]
                 left+=1
                 right+=1
                 count+=1
