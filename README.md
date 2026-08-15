@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/NihalGeek/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NihalGeek/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/NihalGeek/Leetcode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/NihalGeek/Leetcode/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/NihalGeek/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0682-baseball-game](https://github.com/NihalGeek/Leetcode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/NihalGeek/Leetcode/tree/master/0704-binary-search) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/NihalGeek/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/NihalGeek/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NihalGeek/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/NihalGeek/Leetcode/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/NihalGeek/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0876-middle-of-the-linked-list](https://github.com/NihalGeek/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/NihalGeek/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/NihalGeek/Leetcode/tree/master/0013-roman-to-integer) |
+| [0189-rotate-array](https://github.com/NihalGeek/Leetcode/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/NihalGeek/Leetcode/tree/master/0509-fibonacci-number) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/NihalGeek/Leetcode/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/NihalGeek/Leetcode/tree/master/3222-find-the-winning-player-in-coin-game) |
