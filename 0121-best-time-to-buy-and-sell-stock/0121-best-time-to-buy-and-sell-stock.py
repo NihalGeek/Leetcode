@@ -6,7 +6,6 @@ class Solution:
             curr_price=i
             potential_profit=curr_price-min_price
             max_profit=max(max_profit,potential_profit)
-            min_price=min(curr_price,min_price)
-        
+            min_price=min(min_price,curr_price)
         return max_profit
         
