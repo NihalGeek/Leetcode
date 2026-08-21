@@ -1,10 +1,6 @@
+from collections import Counter
 class Solution:
     def majorityElement(self, nums: List[int]) -> int:
-        freq={}
-        for i in nums:
-            if i in freq:
-                freq[i]+=1
-            else:
-                freq[i]=1
-        
+        freq=Counter(nums)
         return max(freq,key=freq.get)
+        
