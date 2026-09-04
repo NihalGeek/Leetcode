@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/NihalGeek/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/NihalGeek/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/NihalGeek/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/NihalGeek/Leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/NihalGeek/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Two Pointers
 |  |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/NihalGeek/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/NihalGeek/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/NihalGeek/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/NihalGeek/Leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/NihalGeek/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/NihalGeek/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/NihalGeek/Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/NihalGeek/Leetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/NihalGeek/Leetcode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/NihalGeek/Leetcode/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/NihalGeek/Leetcode/tree/master/0242-valid-anagram) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/NihalGeek/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Stack
 |  |
