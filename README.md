@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/NihalGeek/Leetcode/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/NihalGeek/Leetcode/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/NihalGeek/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0860-lemonade-change](https://github.com/NihalGeek/Leetcode/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/NihalGeek/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0977-squares-of-a-sorted-array](https://github.com/NihalGeek/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/NihalGeek/Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/NihalGeek/Leetcode/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/NihalGeek/Leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/NihalGeek/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0860-lemonade-change](https://github.com/NihalGeek/Leetcode/tree/master/0860-lemonade-change) |
 | [2126-destroying-asteroids](https://github.com/NihalGeek/Leetcode/tree/master/2126-destroying-asteroids) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/NihalGeek/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Linked List
