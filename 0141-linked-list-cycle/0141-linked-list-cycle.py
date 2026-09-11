@@ -14,4 +14,6 @@ class Solution:
             else:
                 seen.add(curr)
             curr=curr.next
+            
         return False
+        
