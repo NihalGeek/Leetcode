@@ -9,11 +9,12 @@ class Solution:
         seen=set()
         curr=head
         while curr:
-            if curr in seen:
-                return True
-            else:
+            if curr not in seen:
                 seen.add(curr)
-            curr=curr.next
-            
+                curr=curr.next
+            else:
+                return True
         return False
+            
+
         
