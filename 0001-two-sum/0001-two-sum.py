@@ -1,5 +1,5 @@
 class Solution:
-    def twoSum(self, nums: List[int], target: int) -> List[int]:
+    def twoSum(self, nums: list[int], target: int) -> list[int]:
         freq={}
         for i in range(len(nums)):
             res=target-nums[i]
@@ -7,5 +7,3 @@ class Solution:
                 return [freq[res],i]
             else:
                 freq[nums[i]]=i
-
-        
