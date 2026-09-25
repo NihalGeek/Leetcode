@@ -7,9 +7,8 @@ class Solution:
                 return [left+1,right+1]
                 left+=1
                 right-=1
-            elif numbers[left]+numbers[right]>target:
+            elif (numbers[left]+numbers[right])>target:
                 right-=1
             else:
                 left+=1
-            
         
