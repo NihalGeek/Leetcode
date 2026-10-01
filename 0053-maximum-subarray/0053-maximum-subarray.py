@@ -6,6 +6,6 @@ class Solution:
             if total<0:
                 total=0
             total+=i
-            res=max(total,res)
+            res=max(res,total)
         return res
         
