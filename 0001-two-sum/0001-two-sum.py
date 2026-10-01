@@ -7,3 +7,4 @@ class Solution:
                 return [freq[res],i]
             else:
                 freq[nums[i]]=i
+        
