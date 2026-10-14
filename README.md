@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/NihalGeek/Leetcode/tree/master/0509-fibonacci-number) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/NihalGeek/Leetcode/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/NihalGeek/Leetcode/tree/master/3222-find-the-winning-player-in-coin-game) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/NihalGeek/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Simulation
 |  |
 | ------- |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/NihalGeek/Leetcode/tree/master/0860-lemonade-change) |
 | [2126-destroying-asteroids](https://github.com/NihalGeek/Leetcode/tree/master/2126-destroying-asteroids) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/NihalGeek/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/NihalGeek/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Linked List
 |  |
 | ------- |
